@@ -1,5 +1,7 @@
 Build a custom MCP server that enables code-to-diagram from GitHub repositories.
-Blog Post: https://towardsdatascience.com/model-context-protocol-mcp-tutorial-build-your-first-mcp-server-in-6-steps/
+
+Blog Post: https://towardsdatascience.com/model-context-protocol-mcp-tutorial-build-your-first-mcp-server-in-6-steps/   
+Video Tutorial: https://youtu.be/Ee2dQqSHF-g  
 
 Essential steps for building a custom MCP server:
 1. Environment Setup
